@@ -402,7 +402,6 @@ export default class TextField extends PureComponent {
 
             <TextInput
               style={[styles.input, inputStyle, style]}
-              selectionColor={tintColor}
 
               {...props}
 
